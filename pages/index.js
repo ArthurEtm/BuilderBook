@@ -7,6 +7,7 @@ const Index = () => (
       <title>Index page</title>
       <meta name="description" content="This is description of Index page" />
     </Head>
+    <Header />
     <p>Content on Index page</p>
   </div>
 );
